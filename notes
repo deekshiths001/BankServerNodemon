@@ -1,0 +1,20 @@
+Server Creation - Nodejs + Express
+
+Basic Commands
+-------------------
+
+1) Creating package.json - npm init
+2) Creating node modules - npm i express (Install express)
+3) Install nodemon - npm install -g nodemon
+4) Run - nodemon index.js
+
+Basic Steps
+-------------------
+
+1) Creating a folder (BankServer)
+2) Creating package.json file
+3) Install express
+4) import express inside the index.js file
+5) Create an app using express
+6) Setup the port number 
+7) Resolving http request
